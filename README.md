@@ -17,7 +17,7 @@ Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twi
 
 ## Acesso ao projeto
 
-Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/treinador_analise_sent_model/blob/main/criacao_modelo_analise_sentimentos_twitter.ipynb) ou [baixá-lo](https://github.com/alan-vieira/treinador_analise_sent_model/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/treinador_analise_sent_model_balance_dados/blob/main/analise_de_sentimentos_twitter.ipynb) ou [baixá-lo](https://github.com/alan-vieira/treinador_analise_sent_model_balance_dados/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 Após baixado, para o funcionamento correto da aplicação as seguintes dependêcias deverão ser instaladas.
