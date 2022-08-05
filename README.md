@@ -4,8 +4,8 @@ Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twi
 
 ## Funcionalidades do projeto
 
-- `Funcionalidade 1`: Treina modelos de machine learning de processamento de linguagem natural, com base em classificação semantica. 
-- `Funcionalidade 2`: Gera métricas para validação dos modelos
+- `Funcionalidade 1`: Treina modelos classificadores em três aspectos da base de dados (original, subamostrada e sobreamostrada)
+- `Funcionalidade 2`: Baseada na acurácia e na métrica f1, rankeia o melhor modelo
 
 ## Aplicação
 
