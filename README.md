@@ -8,7 +8,7 @@ Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twi
 - `Funcionalidade 2`: Baseada na acurácia e na métrica f1, rankeia o melhor modelo
 
 ## Aplicação
-
+![Fluxo_trein_test_ranking](./img/fluxo_class_sent.JPG)
                                                                                                             
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
