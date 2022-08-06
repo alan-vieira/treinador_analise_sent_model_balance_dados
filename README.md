@@ -11,6 +11,8 @@ Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twi
 A metodologia proposta para o desenvolvimento desse projeto pode ser resumida na seguinte figura.
 
 ![Fluxo_trein_test_ranking](./img/fluxo_class_sent.JPG)
+
+Após o carregamento do dataset original (raw), o conjunto passa por uma etapa de pré-processamento (constituída por filtros, remoção de stopwords e lematização), seguida de vetorização, treinamento/ teste do modelo, avaliação e finalização com rankeamento dos melhores modelos.
                                                                                                             
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
