@@ -13,6 +13,10 @@ A metodologia proposta para o desenvolvimento desse projeto pode ser resumida na
 ![Fluxo_trein_test_ranking](./img/fluxo_class_sent.JPG)
 
 Após o carregamento do dataset original (raw), o conjunto passa por uma etapa de pré-processamento (constituída por filtros, remoção de stopwords e lematização), seguida de vetorização, treinamento/ teste do modelo, avaliação e finalização com rankeamento dos melhores modelos.
+
+Filtro, transforma os caracteres em minusculo e com auxilio da biblioteca de expreções regulares (regex), remove caracteres especiais, números, pontuação, url e emojis;
+
+Removedor de stopwords, remove palavras que não agregam valor ao conjunto;
                                                                                                             
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
