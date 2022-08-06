@@ -14,6 +14,12 @@ Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twi
 - `Jupyter Notebook`
 - `Python`
 - `Sklearn`
+- `Pandas`
+- `Matplotlib (gráfico)`
+- `Seaborn (gráfico)`
+- `re (regex)`
+- `Spacy (utilizado como lematizador)`
+- `Simplemma (lematizador)`
 
 ## Acesso ao projeto
 
