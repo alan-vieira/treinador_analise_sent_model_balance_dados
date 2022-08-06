@@ -18,17 +18,17 @@ Filtro, transforma os caracteres em minusculo e com auxilio da biblioteca de exp
 
 Removedor de stopwords, remove palavras que não agregam valor ao conjunto;
 
-Texto original
-[E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até um chinelo no gramado! #FutebolNaESPN https://t.co/KwMai2eSOx]
+Texto original:
+>E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até um chinelo no gramado! #FutebolNaESPN https://t.co/KwMai2eSOx
 
-Texto após filtragem
-[clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn]
+Texto após filtragem:
+>clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn
 
-Lematização do Spacy
-[clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn]
+Lematização do Spacy:
+>clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn
 
-Lematização com Simplema
-[clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn]
+Lematização com Simplema:
+>clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn
                                                                                                             
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
