@@ -13,8 +13,8 @@ Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twi
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
 - `Python`
-- `Sklearn`
-- `Pandas`
+- `Sklearn (machine learning)`
+- `Pandas (dataframe)`
 - `Matplotlib (gráfico)`
 - `Seaborn (gráfico)`
 - `re (regex)`
