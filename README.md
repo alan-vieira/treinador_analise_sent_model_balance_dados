@@ -24,6 +24,13 @@ Após baixado, para o funcionamento correto da aplicação as seguintes dependê
 
 - `pandas`
 - `nltk`
+- `stopwords`
+- `pip setuptools wheel`
+- `spacy`
+- `pt_core_news_sm`
+- `simplemma`
+- `confplot`
+- `openpyxl`
 
 ## Autor
 
