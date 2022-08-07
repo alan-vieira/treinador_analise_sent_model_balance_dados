@@ -73,6 +73,8 @@ SGD é um estimador que implementa modelos lineares regularizados com gradiente 
 
 - `Rankeamento do modelo`: O rankeamento dos modelos são realizados com a métrica acurácia como refirência.
 
+![Tabela Ranking Models](./img/tabela_rank_models.JPG)
+
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
 - `Python`
