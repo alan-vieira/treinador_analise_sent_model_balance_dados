@@ -66,7 +66,7 @@ Como intuito de avaliarmos o desempenho, utilizamos dois algoritos vetorizadores
 
 - `Algoritimo de classificação`: Neste caso são utilizados para classificação de sentimentos. Os utilizados no projeto são: SGD e MultinomialNB.
 
-SGD é um estimador que implementa modelos lineares regularizados com gradiente estocastico descendente. E o MultinomialNB é um classificador para modelos multinominal (mais de duas classes)
+SGD é um estimador que implementa modelos lineares regularizados com gradiente estocastico descendente. E o MultinomialNB é um classificador Naive Bayes para modelos multinominal (mais de duas classes)
 
 
 - `Avaliação do modelo`: Os modelos são avalizados com as métricas precisão, sensibilidade, f1-score e acurácia.
