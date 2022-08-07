@@ -31,17 +31,10 @@ E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até u
 
 <br>
 
-Texto após filtragem   | Texto lematizado com Spacy
----------------------- | --------------------------
-clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn
-materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgirr yuri ator falar ir sair temporada então samuel morrer
-
-<br>
-
-Texto após filtragem   | Texto lematizado com Simplema
----------------------- | -----------------------------
-clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn
-materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgirr yuri ator falar ir sair temporada então samuel morrer
+Texto após filtragem   | Texto lematizado com Spacy | Texto lematizado com Simplema
+---------------------- | -------------------------- | -----------------------------
+clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn
+materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgirr yuri ator falar ir sair temporada então samuel morrer | materialgirr yuri ator falar ir sair temporada então samuel morrer
 
 <br>
 
