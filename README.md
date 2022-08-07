@@ -38,7 +38,8 @@ materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgi
 
 <br>
 
-- `Vetorização`:
+- `Vetorização`: Antes de ser vetorizado, o texto passa por um processo de tokenização, sendo dividido em um conjunto de palavras. A vetorização em si é a transformação desse conjunto em um grupo numérico (matriz esparsa).
+
 <br>
 
 Lematizador | Texto lematizado   | Texto tokenizado
@@ -47,6 +48,18 @@ Spacy | clima esquentar januário falta nenê sobrar chinelo gramar futebolnaesp
 Spacy | materialgirr yuri ator falar ir sair temporada então samuel morrer | 'materialgirr', 'yuri', 'ator', 'falar', 'ir', 'sair', 'temporada', 'então', 'samuel', 'morrer'
 Simplema | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn | 'clima', 'esquentar', 'januário', 'dessar', 'faltar', 'nenê', 'sobrar', 'chinelo', 'gramar', 'futebolnaespn'
 Simplema | materialgirr yuri ator falar ir sair temporada então samuel morrer | 'materialgirr', 'yuri', 'ator', 'falar', 'ir', 'sair', 'temporada', 'então', 'samuel', 'morrer'
+
+Exemplo de matriz esparsa
+
+[[0 1 0 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 0 1 0 0]
+ [0 0 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0]
+ [0 0 0 0 0 0 0 0 1]
+ [1 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 0 0]
+ [0 0 0 0 1 0 0 0 0]]
 
 <br>
 
