@@ -46,6 +46,10 @@ clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn
 
 - `Algoritimo de classificação`:
 
+- `Avaliação do modelo`:
+
+- `Rankeamento do modelo`:
+
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
 - `Python`
