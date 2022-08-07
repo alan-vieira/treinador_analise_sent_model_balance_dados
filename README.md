@@ -61,6 +61,8 @@ Exemplo de matriz esparsa
  [0 0 0 0 0 1 0 0 0]
  [0 0 0 0 1 0 0 0 0]]
 
+Como intuito de avaliarmos o desempenho, utilizamos dois algoritos vetorizadores Count e Tfidf.
+
 <br>
 
 - `Algoritimo de classificação`:
