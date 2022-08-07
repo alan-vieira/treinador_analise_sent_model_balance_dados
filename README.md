@@ -26,7 +26,7 @@ E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até u
 
 <br>
 
-- `Lematização`: reduz uma palavra à sua forma base e agrupa diferentes formas da mesma palavra. A lematização com o Spacy é um pouco parecida com a realizada com o Simplema, não são perfeitas, mas ajudam bantante.
+- `Lematização`: reduz uma palavra à sua forma base e agrupa diferentes formas da mesma palavra. A lematização com o Spacy é um pouco parecida com a realizada com o Simplema, não são perfeitas, mas ajudam bastante.
 
 <br>
 
@@ -39,6 +39,8 @@ clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn
 Texto após filtragem   | Texto lematizado com Simplema
 ---------------------- | -----------------------------
 clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn
+
+<br>
 
 - `Vetorização`:
 
