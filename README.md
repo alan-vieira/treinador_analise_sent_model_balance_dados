@@ -1,6 +1,6 @@
 # Treinador de Modelo para Análise de Sentimentos do Twitter com Balancamento de Dados
 ## Descrição do projeto
-Treinador de modelo (com balanceamento de dados) analisador de sentimento do Twitter com processamento de linguagem natural
+Treinador de modelo classificador (com balanceamento de dados) para análise de sentimento do Twitter, com processamento de linguagem natural.
 
 ## Funcionalidades do projeto
 
