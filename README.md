@@ -18,20 +18,31 @@ Após o carregamento do dataset original (raw), o conjunto passa por uma etapa d
 
 - `Removedor de stopwords`: remove palavras que não agregam valor ao conjunto.
 
+<br>
+
 Texto original   | Texto após filtragem
 ---------------- | --------------------
 E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até um chinelo no gramado! #FutebolNaESPN https://t.co/KwMai2eSOx | clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn
 
+<br>
+
 - `Lematização`: reduz uma palavra à sua forma base e agrupa diferentes formas da mesma palavra. A lematização com o Spacy é um pouco parecida com a realizada com o Simplema, não são perfeitas, mas ajudam bantante.
+
+<br>
 
 Texto após filtragem   | Texto lematizado com Spacy
 ---------------------- | --------------------------
 clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn
 
+<br>
+
 Texto após filtragem   | Texto lematizado com Simplema
 ---------------------- | -----------------------------
 clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn
 
+- `Vetorização`:
+
+- `Algoritimo de classificação`:
 
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
