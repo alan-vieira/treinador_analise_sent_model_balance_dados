@@ -18,6 +18,11 @@ Após o carregamento do dataset original (raw), o conjunto passa por uma etapa d
 
 - `Removedor de stopwords`: remove palavras que não agregam valor ao conjunto.
 
+
+Texto original   | Texto após filtragem
+---------------- | --------------------
+E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até um chinelo no gramado! #FutebolNaESPN https://t.co/KwMai2eSOx | clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn
+
                                                                                                             
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
