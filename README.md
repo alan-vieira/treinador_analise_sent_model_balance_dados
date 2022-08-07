@@ -23,6 +23,7 @@ Após o carregamento do dataset original (raw), o conjunto passa por uma etapa d
 Texto original   | Texto após filtragem
 ---------------- | --------------------
 E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até um chinelo no gramado! #FutebolNaESPN https://t.co/KwMai2eSOx | clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn
+@materialgirr @Yuri94031809 O ator falou que ele ia sair depois da 5° temporada, então o Samuel morreu mesmo 😔 | materialgirr yuri ator falou ia sair temporada então samuel morreu
 
 <br>
 
@@ -33,12 +34,14 @@ E o clima esquentou em São Januário depois dessa falta em Nenê! Sobrou até u
 Texto após filtragem   | Texto lematizado com Spacy
 ---------------------- | --------------------------
 clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn
+materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgirr yuri ator falar ir sair temporada então samuel morrer
 
 <br>
 
 Texto após filtragem   | Texto lematizado com Simplema
 ---------------------- | -----------------------------
 clima esquentou januário dessa falta nenê sobrou chinelo gramado futebolnaespn | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn
+materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgirr yuri ator falar ir sair temporada então samuel morrer
 
 <br>
 
