@@ -46,6 +46,16 @@ materialgirr yuri ator falou ia sair temporada então samuel morreu | materialgi
 <br>
 
 - `Vetorização`:
+<br>
+
+Lematizador | Texto lematizado   | Texto tokenizado
+----------- | -------------------| ---------------- 
+Spacy | clima esquentar januário falta nenê sobrar chinelo gramar futebolnaespn | 'clima', 'esquentar', 'januário', 'falta', 'nenê', 'sobrar', 'chinelo', 'gramar', 'futebolnaespn'
+Spacy | materialgirr yuri ator falar ir sair temporada então samuel morrer | 'materialgirr', 'yuri', 'ator', 'falar', 'ir', 'sair', 'temporada', 'então', 'samuel', 'morrer'
+Simplema | clima esquentar januário dessar faltar nenê sobrar chinelo gramar futebolnaespn | 'clima', 'esquentar', 'januário', 'dessar', 'faltar', 'nenê', 'sobrar', 'chinelo', 'gramar', 'futebolnaespn'
+Simplema | materialgirr yuri ator falar ir sair temporada então samuel morrer | 'materialgirr', 'yuri', 'ator', 'falar', 'ir', 'sair', 'temporada', 'então', 'samuel', 'morrer'
+
+<br>
 
 - `Algoritimo de classificação`:
 
