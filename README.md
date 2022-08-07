@@ -63,17 +63,24 @@ Exemplo de matriz esparsa
 
 Como intuito de avaliarmos o desempenho, utilizamos dois algoritos vetorizadores Count e Tfidf.
 
+<br>
 
 - `Algoritimo de classificação`: Neste caso são utilizados para classificação de sentimentos. Os utilizados no projeto são: SGD e MultinomialNB.
 
 SGD é um estimador que implementa modelos lineares regularizados com gradiente estocastico descendente. E o MultinomialNB é um classificador Naive Bayes para modelos multinominal (mais de duas classes)
 
+<br>
 
 - `Avaliação do modelo`: Os modelos são avalizados com as métricas precisão, sensibilidade, f1-score e acurácia.
 
-- `Rankeamento do modelo`: O rankeamento dos modelos são realizados com a métrica acurácia como refirência.
+<br>
+
+- `Rankeamento do modelo`: O rankeamento dos modelos são realizados com a métrica acurácia como referência.
+
+<br>
 
 ![Tabela Ranking Models](./img/tabela_rank_models.JPG)
+
 
 ## Ferramentas utilizadas
 - `Jupyter Notebook`
